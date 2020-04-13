@@ -1,0 +1,780 @@
+,Neighborhood,Venue Category,counts
+0,Amérique,French Restaurant,2
+1,Amérique,Vietnamese Restaurant,1
+2,Archives,French Restaurant,10
+3,Archives,Italian Restaurant,4
+4,Archives,Japanese Restaurant,3
+5,Archives,Asian Restaurant,2
+6,Archives,Falafel Restaurant,2
+7,Archives,Restaurant,2
+8,Archives,Tapas Restaurant,2
+9,Archives,Thai Restaurant,2
+10,Archives,Cajun / Creole Restaurant,1
+11,Archives,Israeli Restaurant,1
+12,Archives,Korean Restaurant,1
+13,Archives,Okonomiyaki Restaurant,1
+14,Archives,Provençal Restaurant,1
+15,Archives,Seafood Restaurant,1
+16,Archives,Vegetarian / Vegan Restaurant,1
+17,Arsenal,French Restaurant,12
+18,Arsenal,Italian Restaurant,2
+19,Arsenal,Tapas Restaurant,2
+20,Arsenal,Thai Restaurant,2
+21,Arsenal,Vegetarian / Vegan Restaurant,2
+22,Arsenal,Brazilian Restaurant,1
+23,Arsenal,Japanese Restaurant,1
+24,Arsenal,Restaurant,1
+25,Arsenal,Seafood Restaurant,1
+26,Arsenal,Southwestern French Restaurant,1
+27,Arsenal,Szechuan Restaurant,1
+28,Arts-et-Métiers,French Restaurant,10
+29,Arts-et-Métiers,Restaurant,5
+30,Arts-et-Métiers,Chinese Restaurant,4
+31,Arts-et-Métiers,Italian Restaurant,4
+32,Arts-et-Métiers,Vietnamese Restaurant,4
+33,Arts-et-Métiers,Moroccan Restaurant,3
+34,Arts-et-Métiers,Japanese Restaurant,2
+35,Arts-et-Métiers,Seafood Restaurant,2
+36,Arts-et-Métiers,Vegetarian / Vegan Restaurant,2
+37,Arts-et-Métiers,Argentinian Restaurant,1
+38,Arts-et-Métiers,Auvergne Restaurant,1
+39,Arts-et-Métiers,Mexican Restaurant,1
+40,Arts-et-Métiers,Sushi Restaurant,1
+41,Auteuil,French Restaurant,1
+42,Batignolles,French Restaurant,20
+43,Batignolles,Italian Restaurant,9
+44,Batignolles,Chinese Restaurant,2
+45,Batignolles,Japanese Restaurant,2
+46,Batignolles,Restaurant,2
+47,Batignolles,Turkish Restaurant,2
+48,Batignolles,American Restaurant,1
+49,Batignolles,Fast Food Restaurant,1
+50,Batignolles,Greek Restaurant,1
+51,Batignolles,Indian Restaurant,1
+52,Batignolles,Latin American Restaurant,1
+53,Batignolles,Lebanese Restaurant,1
+54,Batignolles,Mediterranean Restaurant,1
+55,Batignolles,Seafood Restaurant,1
+56,Batignolles,Sushi Restaurant,1
+57,Batignolles,Thai Restaurant,1
+58,Batignolles,Vegetarian / Vegan Restaurant,1
+59,Bel-Air,French Restaurant,1
+60,Belleville,French Restaurant,5
+61,Belleville,Italian Restaurant,2
+62,Belleville,Japanese Restaurant,2
+63,Belleville,Restaurant,2
+64,Belleville,African Restaurant,1
+65,Belleville,Chinese Restaurant,1
+66,Belleville,Thai Restaurant,1
+67,Belleville,Turkish Restaurant,1
+68,Belleville,Vietnamese Restaurant,1
+69,Bercy,French Restaurant,2
+70,Bercy,Italian Restaurant,2
+71,Bercy,Japanese Restaurant,2
+72,Bercy,Cambodian Restaurant,1
+73,Bercy,Chinese Restaurant,1
+74,Bercy,Doner Restaurant,1
+75,Bercy,Fast Food Restaurant,1
+76,Bercy,Portuguese Restaurant,1
+77,Bercy,Restaurant,1
+78,Bonne-Nouvelle,French Restaurant,9
+79,Bonne-Nouvelle,Italian Restaurant,3
+80,Bonne-Nouvelle,Restaurant,3
+81,Bonne-Nouvelle,Chinese Restaurant,2
+82,Bonne-Nouvelle,Japanese Restaurant,2
+83,Bonne-Nouvelle,Asian Restaurant,1
+84,Bonne-Nouvelle,Greek Restaurant,1
+85,Bonne-Nouvelle,Israeli Restaurant,1
+86,Bonne-Nouvelle,Moroccan Restaurant,1
+87,Bonne-Nouvelle,Peruvian Restaurant,1
+88,Bonne-Nouvelle,Ramen Restaurant,1
+89,Bonne-Nouvelle,Sushi Restaurant,1
+90,Bonne-Nouvelle,Thai Restaurant,1
+91,Bonne-Nouvelle,Vegetarian / Vegan Restaurant,1
+92,Chaillot,French Restaurant,18
+93,Chaillot,Italian Restaurant,7
+94,Chaillot,Chinese Restaurant,2
+95,Chaillot,Japanese Restaurant,2
+96,Chaillot,Cantonese Restaurant,1
+97,Chaillot,Indian Restaurant,1
+98,Chaillot,Lebanese Restaurant,1
+99,Chaillot,Mediterranean Restaurant,1
+100,Chaillot,Molecular Gastronomy Restaurant,1
+101,Chaillot,Seafood Restaurant,1
+102,Chaillot,Vegetarian / Vegan Restaurant,1
+103,Chaillot,Vietnamese Restaurant,1
+104,Champs-Elysées,French Restaurant,14
+105,Champs-Elysées,Italian Restaurant,4
+106,Champs-Elysées,Japanese Restaurant,4
+107,Champs-Elysées,Chinese Restaurant,1
+108,Champs-Elysées,Korean Restaurant,1
+109,Champs-Elysées,Peruvian Restaurant,1
+110,Champs-Elysées,Seafood Restaurant,1
+111,Champs-Elysées,Tapas Restaurant,1
+112,Champs-Elysées,Thai Restaurant,1
+113,Charonne,French Restaurant,2
+114,Charonne,Japanese Restaurant,2
+115,Charonne,Brazilian Restaurant,1
+116,Charonne,Indian Restaurant,1
+117,Charonne,Portuguese Restaurant,1
+118,Chaussée-d'Antin,French Restaurant,9
+119,Chaussée-d'Antin,Vietnamese Restaurant,3
+120,Chaussée-d'Antin,Chinese Restaurant,2
+121,Chaussée-d'Antin,Italian Restaurant,2
+122,Chaussée-d'Antin,Indian Restaurant,1
+123,Chaussée-d'Antin,Restaurant,1
+124,Chaussée-d'Antin,Seafood Restaurant,1
+125,Chaussée-d'Antin,Taiwanese Restaurant,1
+126,Clignancourt,French Restaurant,7
+127,Clignancourt,Italian Restaurant,2
+128,Clignancourt,Restaurant,2
+129,Clignancourt,Arepa Restaurant,1
+130,Clignancourt,Fast Food Restaurant,1
+131,Clignancourt,Indian Restaurant,1
+132,Clignancourt,Japanese Restaurant,1
+133,Clignancourt,Mediterranean Restaurant,1
+134,Clignancourt,Middle Eastern Restaurant,1
+135,Clignancourt,Seafood Restaurant,1
+136,Clignancourt,Vietnamese Restaurant,1
+137,Combat,French Restaurant,8
+138,Combat,Italian Restaurant,2
+139,Combat,Restaurant,2
+140,Combat,Japanese Restaurant,1
+141,Combat,Latin American Restaurant,1
+142,Combat,Moroccan Restaurant,1
+143,Combat,Thai Restaurant,1
+144,Croulebarbe,French Restaurant,8
+145,Croulebarbe,Sushi Restaurant,3
+146,Croulebarbe,Italian Restaurant,2
+147,Croulebarbe,American Restaurant,1
+148,Croulebarbe,Ethiopian Restaurant,1
+149,Croulebarbe,Indian Restaurant,1
+150,Croulebarbe,Japanese Restaurant,1
+151,Croulebarbe,Korean Restaurant,1
+152,Croulebarbe,Moroccan Restaurant,1
+153,Croulebarbe,Ramen Restaurant,1
+154,Croulebarbe,Restaurant,1
+155,Croulebarbe,Tapas Restaurant,1
+156,Croulebarbe,Thai Restaurant,1
+157,Ecole-Militaire,French Restaurant,2
+158,Ecole-Militaire,Asian Restaurant,1
+159,Enfants-Rouges,French Restaurant,7
+160,Enfants-Rouges,Italian Restaurant,4
+161,Enfants-Rouges,Japanese Restaurant,4
+162,Enfants-Rouges,Restaurant,3
+163,Enfants-Rouges,Vietnamese Restaurant,3
+164,Enfants-Rouges,Chinese Restaurant,2
+165,Enfants-Rouges,Korean Restaurant,2
+166,Enfants-Rouges,Seafood Restaurant,2
+167,Enfants-Rouges,Argentinian Restaurant,1
+168,Enfants-Rouges,Moroccan Restaurant,1
+169,Enfants-Rouges,Okonomiyaki Restaurant,1
+170,Enfants-Rouges,Thai Restaurant,1
+171,Epinettes,French Restaurant,2
+172,Epinettes,Japanese Restaurant,2
+173,Epinettes,Restaurant,2
+174,Epinettes,Asian Restaurant,1
+175,Epinettes,Doner Restaurant,1
+176,Epinettes,Ethiopian Restaurant,1
+177,Epinettes,Sushi Restaurant,1
+178,Epinettes,Turkish Restaurant,1
+179,Europe,French Restaurant,15
+180,Europe,Italian Restaurant,2
+181,Europe,Thai Restaurant,2
+182,Europe,Chinese Restaurant,1
+183,Europe,Gluten-free Restaurant,1
+184,Europe,Korean Restaurant,1
+185,Europe,Lebanese Restaurant,1
+186,Europe,Mediterranean Restaurant,1
+187,Europe,Middle Eastern Restaurant,1
+188,Europe,Modern European Restaurant,1
+189,Europe,Restaurant,1
+190,Europe,Sushi Restaurant,1
+191,Faubourg-Montmartre,French Restaurant,17
+192,Faubourg-Montmartre,Italian Restaurant,6
+193,Faubourg-Montmartre,Vegetarian / Vegan Restaurant,4
+194,Faubourg-Montmartre,Chinese Restaurant,3
+195,Faubourg-Montmartre,Brazilian Restaurant,2
+196,Faubourg-Montmartre,Doner Restaurant,2
+197,Faubourg-Montmartre,Japanese Restaurant,2
+198,Faubourg-Montmartre,Restaurant,2
+199,Faubourg-Montmartre,Thai Restaurant,2
+200,Faubourg-Montmartre,Argentinian Restaurant,1
+201,Faubourg-Montmartre,Corsican Restaurant,1
+202,Faubourg-Montmartre,Eastern European Restaurant,1
+203,Faubourg-Montmartre,Empanada Restaurant,1
+204,Faubourg-Montmartre,Falafel Restaurant,1
+205,Faubourg-Montmartre,Indian Restaurant,1
+206,Faubourg-Montmartre,Seafood Restaurant,1
+207,Faubourg-du-Roule,French Restaurant,12
+208,Faubourg-du-Roule,Asian Restaurant,2
+209,Faubourg-du-Roule,Italian Restaurant,2
+210,Faubourg-du-Roule,Japanese Restaurant,2
+211,Faubourg-du-Roule,Scandinavian Restaurant,2
+212,Faubourg-du-Roule,Fast Food Restaurant,1
+213,Faubourg-du-Roule,Restaurant,1
+214,Faubourg-du-Roule,Seafood Restaurant,1
+215,Folie-Méricourt,French Restaurant,14
+216,Folie-Méricourt,Restaurant,8
+217,Folie-Méricourt,Italian Restaurant,3
+218,Folie-Méricourt,African Restaurant,2
+219,Folie-Méricourt,Japanese Restaurant,2
+220,Folie-Méricourt,Mexican Restaurant,2
+221,Folie-Méricourt,Vegetarian / Vegan Restaurant,2
+222,Folie-Méricourt,Asian Restaurant,1
+223,Folie-Méricourt,Chinese Restaurant,1
+224,Folie-Méricourt,Ethiopian Restaurant,1
+225,Folie-Méricourt,Korean Restaurant,1
+226,Folie-Méricourt,Middle Eastern Restaurant,1
+227,Gaillon,Japanese Restaurant,12
+228,Gaillon,French Restaurant,9
+229,Gaillon,Italian Restaurant,3
+230,Gaillon,Korean Restaurant,3
+231,Gaillon,Ramen Restaurant,2
+232,Gaillon,Taiwanese Restaurant,2
+233,Gaillon,Udon Restaurant,2
+234,Gaillon,Vietnamese Restaurant,2
+235,Gaillon,English Restaurant,1
+236,Gaillon,Restaurant,1
+237,Gaillon,Seafood Restaurant,1
+238,Gaillon,Sushi Restaurant,1
+239,Gaillon,Tapas Restaurant,1
+240,Gaillon,Thai Restaurant,1
+241,Gare,French Restaurant,3
+242,Gare,Japanese Restaurant,3
+243,Gare,Italian Restaurant,2
+244,Gare,Thai Restaurant,2
+245,Gare,Vietnamese Restaurant,2
+246,Gare,Fast Food Restaurant,1
+247,Gare,Restaurant,1
+248,Goutte-d'Or,Asian Restaurant,3
+249,Goutte-d'Or,Chinese Restaurant,2
+250,Goutte-d'Or,Fast Food Restaurant,2
+251,Goutte-d'Or,French Restaurant,1
+252,Goutte-d'Or,Sushi Restaurant,1
+253,Goutte-d'Or,Thai Restaurant,1
+254,Goutte-d'Or,Vietnamese Restaurant,1
+255,Grandes-Carrières,French Restaurant,11
+256,Grandes-Carrières,Restaurant,3
+257,Grandes-Carrières,Italian Restaurant,2
+258,Grandes-Carrières,American Restaurant,1
+259,Grandes-Carrières,Arepa Restaurant,1
+260,Grandes-Carrières,Greek Restaurant,1
+261,Grandes-Carrières,Indian Restaurant,1
+262,Grandes-Carrières,Tapas Restaurant,1
+263,Grandes-Carrières,Thai Restaurant,1
+264,Grandes-Carrières,Turkish Restaurant,1
+265,Grenelle,French Restaurant,5
+266,Grenelle,Japanese Restaurant,4
+267,Grenelle,Indian Restaurant,2
+268,Grenelle,Italian Restaurant,2
+269,Grenelle,Basque Restaurant,1
+270,Grenelle,Moroccan Restaurant,1
+271,Grenelle,Tapas Restaurant,1
+272,Gros-Caillou,French Restaurant,27
+273,Gros-Caillou,Italian Restaurant,11
+274,Gros-Caillou,Chinese Restaurant,2
+275,Gros-Caillou,Vietnamese Restaurant,2
+276,Gros-Caillou,Basque Restaurant,1
+277,Gros-Caillou,Greek Restaurant,1
+278,Gros-Caillou,Indian Restaurant,1
+279,Gros-Caillou,Japanese Restaurant,1
+280,Gros-Caillou,Korean Restaurant,1
+281,Gros-Caillou,New American Restaurant,1
+282,Gros-Caillou,Southwestern French Restaurant,1
+283,Gros-Caillou,Spanish Restaurant,1
+284,Halles,French Restaurant,10
+285,Halles,Chinese Restaurant,1
+286,Halles,Japanese Restaurant,1
+287,Halles,Restaurant,1
+288,Halles,Thai Restaurant,1
+289,Hôpital-Saint-Louis,French Restaurant,17
+290,Hôpital-Saint-Louis,Thai Restaurant,3
+291,Hôpital-Saint-Louis,Asian Restaurant,2
+292,Hôpital-Saint-Louis,Cambodian Restaurant,2
+293,Hôpital-Saint-Louis,Italian Restaurant,2
+294,Hôpital-Saint-Louis,Restaurant,2
+295,Hôpital-Saint-Louis,Argentinian Restaurant,1
+296,Hôpital-Saint-Louis,Chinese Restaurant,1
+297,Hôpital-Saint-Louis,Falafel Restaurant,1
+298,Hôpital-Saint-Louis,Indian Restaurant,1
+299,Hôpital-Saint-Louis,Indonesian Restaurant,1
+300,Hôpital-Saint-Louis,Japanese Restaurant,1
+301,Hôpital-Saint-Louis,Korean Restaurant,1
+302,Hôpital-Saint-Louis,Moroccan Restaurant,1
+303,Hôpital-Saint-Louis,Southern / Soul Food Restaurant,1
+304,Hôpital-Saint-Louis,Tapas Restaurant,1
+305,Hôpital-Saint-Louis,Turkish Restaurant,1
+306,Hôpital-Saint-Louis,Vegetarian / Vegan Restaurant,1
+307,Invalides,French Restaurant,18
+308,Invalides,Italian Restaurant,2
+309,Invalides,Japanese Restaurant,1
+310,Invalides,Restaurant,1
+311,Invalides,Vegetarian / Vegan Restaurant,1
+312,Jardin-des-Plantes,French Restaurant,7
+313,Jardin-des-Plantes,Greek Restaurant,2
+314,Jardin-des-Plantes,Italian Restaurant,2
+315,Jardin-des-Plantes,Moroccan Restaurant,2
+316,Jardin-des-Plantes,Asian Restaurant,1
+317,Jardin-des-Plantes,Cajun / Creole Restaurant,1
+318,Jardin-des-Plantes,Chinese Restaurant,1
+319,Jardin-des-Plantes,Corsican Restaurant,1
+320,Jardin-des-Plantes,Falafel Restaurant,1
+321,Jardin-des-Plantes,Indian Restaurant,1
+322,Jardin-des-Plantes,Korean Restaurant,1
+323,Jardin-des-Plantes,Mediterranean Restaurant,1
+324,Jardin-des-Plantes,Peruvian Restaurant,1
+325,Jardin-des-Plantes,Restaurant,1
+326,Jardin-des-Plantes,Tapas Restaurant,1
+327,Jardin-des-Plantes,Vietnamese Restaurant,1
+328,Javel,French Restaurant,7
+329,Javel,Sushi Restaurant,2
+330,Javel,Asian Restaurant,1
+331,Javel,Japanese Restaurant,1
+332,Javel,Lebanese Restaurant,1
+333,Javel,Moroccan Restaurant,1
+334,Javel,Restaurant,1
+335,Javel,Vietnamese Restaurant,1
+336,La Chapelle,Chinese Restaurant,2
+337,La Chapelle,French Restaurant,2
+338,La Chapelle,Thai Restaurant,2
+339,La Chapelle,Asian Restaurant,1
+340,La Chapelle,Mexican Restaurant,1
+341,La Chapelle,Vietnamese Restaurant,1
+342,Madeleine,French Restaurant,13
+343,Madeleine,Asian Restaurant,2
+344,Madeleine,Corsican Restaurant,1
+345,Madeleine,Italian Restaurant,1
+346,Madeleine,Mediterranean Restaurant,1
+347,Madeleine,Modern European Restaurant,1
+348,Madeleine,Russian Restaurant,1
+349,Madeleine,Thai Restaurant,1
+350,Madeleine,Vietnamese Restaurant,1
+351,Mail,French Restaurant,7
+352,Mail,Italian Restaurant,3
+353,Mail,Indian Restaurant,2
+354,Mail,Thai Restaurant,2
+355,Mail,Asian Restaurant,1
+356,Mail,Ch'ti Restaurant,1
+357,Mail,Chinese Restaurant,1
+358,Mail,Greek Restaurant,1
+359,Mail,Indonesian Restaurant,1
+360,Mail,Israeli Restaurant,1
+361,Mail,Japanese Restaurant,1
+362,Mail,Lebanese Restaurant,1
+363,Mail,Mexican Restaurant,1
+364,Mail,Peruvian Restaurant,1
+365,Mail,Ramen Restaurant,1
+366,Mail,Restaurant,1
+367,Maison-Blanche,French Restaurant,3
+368,Maison-Blanche,Chinese Restaurant,1
+369,Maison-Blanche,Southwestern French Restaurant,1
+370,Maison-Blanche,Vietnamese Restaurant,1
+371,Monnaie,French Restaurant,11
+372,Monnaie,Restaurant,2
+373,Monnaie,Seafood Restaurant,2
+374,Monnaie,African Restaurant,1
+375,Monnaie,Breton Restaurant,1
+376,Monnaie,Caucasian Restaurant,1
+377,Monnaie,Falafel Restaurant,1
+378,Monnaie,Italian Restaurant,1
+379,Monnaie,Lebanese Restaurant,1
+380,Monnaie,Modern European Restaurant,1
+381,Monnaie,Moroccan Restaurant,1
+382,Montparnasse,French Restaurant,12
+383,Montparnasse,Italian Restaurant,4
+384,Montparnasse,Sushi Restaurant,3
+385,Montparnasse,Southwestern French Restaurant,2
+386,Montparnasse,Asian Restaurant,1
+387,Montparnasse,Cajun / Creole Restaurant,1
+388,Montparnasse,Fondue Restaurant,1
+389,Montparnasse,Kebab Restaurant,1
+390,Montparnasse,Lebanese Restaurant,1
+391,Montparnasse,Modern European Restaurant,1
+392,Montparnasse,Restaurant,1
+393,Montparnasse,Russian Restaurant,1
+394,Montparnasse,Seafood Restaurant,1
+395,Montparnasse,Vietnamese Restaurant,1
+396,Muette,French Restaurant,2
+397,Necker,French Restaurant,7
+398,Necker,Korean Restaurant,2
+399,Necker,Chinese Restaurant,1
+400,Necker,Ethiopian Restaurant,1
+401,Necker,Italian Restaurant,1
+402,Necker,Japanese Restaurant,1
+403,Necker,Lebanese Restaurant,1
+404,Necker,Restaurant,1
+405,Necker,Vietnamese Restaurant,1
+406,Notre-Dame,French Restaurant,12
+407,Notre-Dame,Japanese Restaurant,5
+408,Notre-Dame,Italian Restaurant,3
+409,Notre-Dame,Seafood Restaurant,2
+410,Notre-Dame,Tapas Restaurant,2
+411,Notre-Dame,Burgundian Restaurant,1
+412,Notre-Dame,Lebanese Restaurant,1
+413,Notre-Dame,Mexican Restaurant,1
+414,Notre-Dame,Portuguese Restaurant,1
+415,Notre-Dame,Scandinavian Restaurant,1
+416,Notre-Dame,Syrian Restaurant,1
+417,Notre-Dame,Thai Restaurant,1
+418,Notre-Dame-des-Champs,French Restaurant,18
+419,Notre-Dame-des-Champs,Italian Restaurant,4
+420,Notre-Dame-des-Champs,Japanese Restaurant,3
+421,Notre-Dame-des-Champs,American Restaurant,1
+422,Notre-Dame-des-Champs,Argentinian Restaurant,1
+423,Notre-Dame-des-Champs,Belgian Restaurant,1
+424,Notre-Dame-des-Champs,Cajun / Creole Restaurant,1
+425,Notre-Dame-des-Champs,Chinese Restaurant,1
+426,Notre-Dame-des-Champs,Korean Restaurant,1
+427,Notre-Dame-des-Champs,Restaurant,1
+428,Odéon,French Restaurant,3
+429,Odéon,Argentinian Restaurant,1
+430,Odéon,Italian Restaurant,1
+431,Palais-Royal,Japanese Restaurant,10
+432,Palais-Royal,French Restaurant,9
+433,Palais-Royal,Italian Restaurant,5
+434,Palais-Royal,Korean Restaurant,2
+435,Palais-Royal,Ramen Restaurant,2
+436,Palais-Royal,Thai Restaurant,2
+437,Palais-Royal,Udon Restaurant,2
+438,Palais-Royal,Israeli Restaurant,1
+439,Palais-Royal,Restaurant,1
+440,Palais-Royal,Sushi Restaurant,1
+441,Palais-Royal,Taiwanese Restaurant,1
+442,Parc-de-Montsouris,Italian Restaurant,3
+443,Parc-de-Montsouris,Chinese Restaurant,1
+444,Parc-de-Montsouris,French Restaurant,1
+445,Parc-de-Montsouris,Indian Restaurant,1
+446,Parc-de-Montsouris,Japanese Restaurant,1
+447,Parc-de-Montsouris,Kebab Restaurant,1
+448,Parc-de-Montsouris,Middle Eastern Restaurant,1
+449,Parc-de-Montsouris,Restaurant,1
+450,Parc-de-Montsouris,Sushi Restaurant,1
+451,Parc-de-Montsouris,Vietnamese Restaurant,1
+452,Petit-Montrouge,French Restaurant,9
+453,Petit-Montrouge,Italian Restaurant,4
+454,Petit-Montrouge,Sushi Restaurant,4
+455,Petit-Montrouge,African Restaurant,1
+456,Petit-Montrouge,Fast Food Restaurant,1
+457,Petit-Montrouge,Indian Restaurant,1
+458,Petit-Montrouge,Korean Restaurant,1
+459,Petit-Montrouge,Restaurant,1
+460,Petit-Montrouge,Szechuan Restaurant,1
+461,Place-Vendôme,French Restaurant,13
+462,Place-Vendôme,Japanese Restaurant,4
+463,Place-Vendôme,Italian Restaurant,2
+464,Place-Vendôme,Auvergne Restaurant,1
+465,Place-Vendôme,Cantonese Restaurant,1
+466,Place-Vendôme,Israeli Restaurant,1
+467,Place-Vendôme,Scandinavian Restaurant,1
+468,Place-Vendôme,Seafood Restaurant,1
+469,Place-Vendôme,Tapas Restaurant,1
+470,Plaine de Monceaux,French Restaurant,8
+471,Plaine de Monceaux,Italian Restaurant,8
+472,Plaine de Monceaux,Asian Restaurant,3
+473,Plaine de Monceaux,Japanese Restaurant,2
+474,Plaine de Monceaux,Restaurant,2
+475,Plaine de Monceaux,Halal Restaurant,1
+476,Plaine de Monceaux,Indian Restaurant,1
+477,Plaine de Monceaux,Moroccan Restaurant,1
+478,Plaine de Monceaux,Portuguese Restaurant,1
+479,Plaine de Monceaux,Seafood Restaurant,1
+480,Plaine de Monceaux,Sushi Restaurant,1
+481,Plaisance,French Restaurant,5
+482,Plaisance,Japanese Restaurant,2
+483,Plaisance,Korean Restaurant,1
+484,Plaisance,Modern European Restaurant,1
+485,Plaisance,Restaurant,1
+486,Plaisance,Sushi Restaurant,1
+487,Plaisance,Thai Restaurant,1
+488,Plaisance,Vegetarian / Vegan Restaurant,1
+489,Plaisance,Vietnamese Restaurant,1
+490,Pont-de-Flandre,Asian Restaurant,3
+491,Pont-de-Flandre,French Restaurant,3
+492,Pont-de-Flandre,Japanese Restaurant,2
+493,Pont-de-Flandre,Restaurant,2
+494,Pont-de-Flandre,African Restaurant,1
+495,Pont-de-Flandre,American Restaurant,1
+496,Pont-de-Flandre,Fast Food Restaurant,1
+497,Pont-de-Flandre,Italian Restaurant,1
+498,Pont-de-Flandre,Middle Eastern Restaurant,1
+499,Pont-de-Flandre,Spanish Restaurant,1
+500,Porte-Saint-Denis,French Restaurant,7
+501,Porte-Saint-Denis,Japanese Restaurant,4
+502,Porte-Saint-Denis,Vegetarian / Vegan Restaurant,4
+503,Porte-Saint-Denis,Fast Food Restaurant,2
+504,Porte-Saint-Denis,Indian Restaurant,2
+505,Porte-Saint-Denis,Restaurant,2
+506,Porte-Saint-Denis,Seafood Restaurant,2
+507,Porte-Saint-Denis,African Restaurant,1
+508,Porte-Saint-Denis,Asian Restaurant,1
+509,Porte-Saint-Denis,Corsican Restaurant,1
+510,Porte-Saint-Denis,Doner Restaurant,1
+511,Porte-Saint-Denis,Hawaiian Restaurant,1
+512,Porte-Saint-Denis,Korean Restaurant,1
+513,Porte-Saint-Denis,Mediterranean Restaurant,1
+514,Porte-Saint-Denis,Modern European Restaurant,1
+515,Porte-Saint-Denis,Thai Restaurant,1
+516,Porte-Saint-Denis,Vietnamese Restaurant,1
+517,Porte-Saint-Martin,French Restaurant,6
+518,Porte-Saint-Martin,Asian Restaurant,3
+519,Porte-Saint-Martin,Cambodian Restaurant,2
+520,Porte-Saint-Martin,Mexican Restaurant,2
+521,Porte-Saint-Martin,African Restaurant,1
+522,Porte-Saint-Martin,Chinese Restaurant,1
+523,Porte-Saint-Martin,Indian Restaurant,1
+524,Porte-Saint-Martin,Italian Restaurant,1
+525,Porte-Saint-Martin,Korean Restaurant,1
+526,Porte-Saint-Martin,Moroccan Restaurant,1
+527,Porte-Saint-Martin,Seafood Restaurant,1
+528,Porte-Saint-Martin,Shanxi Restaurant,1
+529,Porte-Saint-Martin,Tapas Restaurant,1
+530,Porte-Saint-Martin,Vegetarian / Vegan Restaurant,1
+531,Père-Lachaise,Japanese Restaurant,3
+532,Père-Lachaise,French Restaurant,2
+533,Père-Lachaise,Italian Restaurant,2
+534,Père-Lachaise,Chinese Restaurant,1
+535,Père-Lachaise,Korean Restaurant,1
+536,Père-Lachaise,Moroccan Restaurant,1
+537,Père-Lachaise,Restaurant,1
+538,Père-Lachaise,Sushi Restaurant,1
+539,Quinze-Vingts,French Restaurant,11
+540,Quinze-Vingts,Italian Restaurant,2
+541,Quinze-Vingts,Japanese Restaurant,2
+542,Quinze-Vingts,Fast Food Restaurant,1
+543,Quinze-Vingts,Mexican Restaurant,1
+544,Quinze-Vingts,Middle Eastern Restaurant,1
+545,Quinze-Vingts,Restaurant,1
+546,Quinze-Vingts,Thai Restaurant,1
+547,Quinze-Vingts,Vietnamese Restaurant,1
+548,Rochechouart,French Restaurant,17
+549,Rochechouart,Vegetarian / Vegan Restaurant,4
+550,Rochechouart,Italian Restaurant,2
+551,Rochechouart,Vietnamese Restaurant,2
+552,Rochechouart,Eastern European Restaurant,1
+553,Rochechouart,Japanese Restaurant,1
+554,Rochechouart,Restaurant,1
+555,Rochechouart,Sushi Restaurant,1
+556,Rochechouart,Thai Restaurant,1
+557,Roquette,French Restaurant,10
+558,Roquette,Italian Restaurant,4
+559,Roquette,Japanese Restaurant,2
+560,Roquette,African Restaurant,1
+561,Roquette,Asian Restaurant,1
+562,Roquette,Chinese Restaurant,1
+563,Roquette,Ethiopian Restaurant,1
+564,Roquette,Fast Food Restaurant,1
+565,Roquette,Gluten-free Restaurant,1
+566,Roquette,Greek Restaurant,1
+567,Roquette,Indian Restaurant,1
+568,Roquette,Korean Restaurant,1
+569,Roquette,Mediterranean Restaurant,1
+570,Roquette,Middle Eastern Restaurant,1
+571,Roquette,Moroccan Restaurant,1
+572,Roquette,Restaurant,1
+573,Roquette,Savoyard Restaurant,1
+574,Roquette,Seafood Restaurant,1
+575,Roquette,Tapas Restaurant,1
+576,Roquette,Thai Restaurant,1
+577,Roquette,Vegetarian / Vegan Restaurant,1
+578,Roquette,Vietnamese Restaurant,1
+579,Saint-Ambroise,French Restaurant,9
+580,Saint-Ambroise,Restaurant,7
+581,Saint-Ambroise,Italian Restaurant,2
+582,Saint-Ambroise,Japanese Restaurant,2
+583,Saint-Ambroise,Vietnamese Restaurant,2
+584,Saint-Ambroise,Afghan Restaurant,1
+585,Saint-Ambroise,Asian Restaurant,1
+586,Saint-Ambroise,Chinese Restaurant,1
+587,Saint-Ambroise,Comfort Food Restaurant,1
+588,Saint-Ambroise,Ethiopian Restaurant,1
+589,Saint-Ambroise,Indian Restaurant,1
+590,Saint-Ambroise,Mexican Restaurant,1
+591,Saint-Ambroise,Sushi Restaurant,1
+592,Saint-Ambroise,Vegetarian / Vegan Restaurant,1
+593,Saint-Fargeau,French Restaurant,1
+594,Saint-Georges,French Restaurant,9
+595,Saint-Georges,Italian Restaurant,6
+596,Saint-Georges,Japanese Restaurant,2
+597,Saint-Georges,Chinese Restaurant,1
+598,Saint-Georges,Falafel Restaurant,1
+599,Saint-Georges,Scandinavian Restaurant,1
+600,Saint-Georges,Sushi Restaurant,1
+601,Saint-Georges,Tapas Restaurant,1
+602,Saint-Georges,Turkish Restaurant,1
+603,Saint-Georges,Venezuelan Restaurant,1
+604,Saint-Georges,Vietnamese Restaurant,1
+605,Saint-Germain-des-Prés,French Restaurant,13
+606,Saint-Germain-des-Prés,Italian Restaurant,8
+607,Saint-Germain-des-Prés,Japanese Restaurant,3
+608,Saint-Germain-des-Prés,Seafood Restaurant,2
+609,Saint-Germain-des-Prés,American Restaurant,1
+610,Saint-Germain-des-Prés,Asian Restaurant,1
+611,Saint-Germain-des-Prés,Breton Restaurant,1
+612,Saint-Germain-des-Prés,Chinese Restaurant,1
+613,Saint-Germain-des-Prés,Greek Restaurant,1
+614,Saint-Germain-des-Prés,Korean Restaurant,1
+615,Saint-Germain-des-Prés,Lebanese Restaurant,1
+616,Saint-Germain-des-Prés,Mexican Restaurant,1
+617,Saint-Germain-des-Prés,Modern European Restaurant,1
+618,Saint-Germain-des-Prés,Restaurant,1
+619,Saint-Germain-des-Prés,Tapas Restaurant,1
+620,Saint-Germain-l'Auxerrois,French Restaurant,10
+621,Saint-Germain-l'Auxerrois,Italian Restaurant,2
+622,Saint-Germain-l'Auxerrois,Japanese Restaurant,1
+623,Saint-Germain-l'Auxerrois,Udon Restaurant,1
+624,Saint-Gervais,French Restaurant,10
+625,Saint-Gervais,Italian Restaurant,3
+626,Saint-Gervais,Thai Restaurant,3
+627,Saint-Gervais,Falafel Restaurant,2
+628,Saint-Gervais,Scandinavian Restaurant,2
+629,Saint-Gervais,Tapas Restaurant,2
+630,Saint-Gervais,African Restaurant,1
+631,Saint-Gervais,Asian Restaurant,1
+632,Saint-Gervais,Burgundian Restaurant,1
+633,Saint-Gervais,Israeli Restaurant,1
+634,Saint-Gervais,Jewish Restaurant,1
+635,Saint-Gervais,Portuguese Restaurant,1
+636,Saint-Gervais,Restaurant,1
+637,Saint-Gervais,Seafood Restaurant,1
+638,Saint-Lambert,French Restaurant,10
+639,Saint-Lambert,Thai Restaurant,3
+640,Saint-Lambert,Italian Restaurant,2
+641,Saint-Lambert,Asian Restaurant,1
+642,Saint-Lambert,Basque Restaurant,1
+643,Saint-Lambert,Chinese Restaurant,1
+644,Saint-Lambert,Falafel Restaurant,1
+645,Saint-Lambert,Japanese Restaurant,1
+646,Saint-Lambert,Korean Restaurant,1
+647,Saint-Lambert,Lebanese Restaurant,1
+648,Saint-Lambert,Middle Eastern Restaurant,1
+649,Saint-Lambert,Peruvian Restaurant,1
+650,Saint-Lambert,Savoyard Restaurant,1
+651,Saint-Lambert,Sushi Restaurant,1
+652,Saint-Lambert,Vietnamese Restaurant,1
+653,Saint-Merri,French Restaurant,15
+654,Saint-Merri,Alsatian Restaurant,1
+655,Saint-Merri,Auvergne Restaurant,1
+656,Saint-Merri,Italian Restaurant,1
+657,Saint-Merri,Japanese Restaurant,1
+658,Saint-Merri,Portuguese Restaurant,1
+659,Saint-Merri,Restaurant,1
+660,Saint-Merri,Seafood Restaurant,1
+661,Saint-Merri,Szechuan Restaurant,1
+662,Saint-Thomas-d'Aquin,French Restaurant,18
+663,Saint-Thomas-d'Aquin,Italian Restaurant,5
+664,Saint-Thomas-d'Aquin,Japanese Restaurant,1
+665,Saint-Thomas-d'Aquin,Peruvian Restaurant,1
+666,Saint-Thomas-d'Aquin,Vietnamese Restaurant,1
+667,Saint-Victor,French Restaurant,20
+668,Saint-Victor,Italian Restaurant,3
+669,Saint-Victor,Japanese Restaurant,3
+670,Saint-Victor,Argentinian Restaurant,1
+671,Saint-Victor,Basque Restaurant,1
+672,Saint-Victor,Ethiopian Restaurant,1
+673,Saint-Victor,Falafel Restaurant,1
+674,Saint-Victor,Kebab Restaurant,1
+675,Saint-Victor,Mexican Restaurant,1
+676,Saint-Victor,Moroccan Restaurant,1
+677,Saint-Victor,Peruvian Restaurant,1
+678,Saint-Victor,Portuguese Restaurant,1
+679,Saint-Victor,Restaurant,1
+680,Saint-Victor,Seafood Restaurant,1
+681,Saint-Victor,Sushi Restaurant,1
+682,Saint-Victor,Szechuan Restaurant,1
+683,Saint-Victor,Tapas Restaurant,1
+684,Saint-Victor,Tibetan Restaurant,1
+685,Saint-Victor,Turkish Restaurant,1
+686,Saint-Victor,Vietnamese Restaurant,1
+687,Saint-Vincent-de-Paul,Indian Restaurant,6
+688,Saint-Vincent-de-Paul,French Restaurant,5
+689,Saint-Vincent-de-Paul,African Restaurant,2
+690,Saint-Vincent-de-Paul,Italian Restaurant,2
+691,Saint-Vincent-de-Paul,Breton Restaurant,1
+692,Saint-Vincent-de-Paul,Israeli Restaurant,1
+693,Saint-Vincent-de-Paul,Japanese Restaurant,1
+694,Sainte-Avoie,French Restaurant,8
+695,Sainte-Avoie,Chinese Restaurant,4
+696,Sainte-Avoie,Restaurant,4
+697,Sainte-Avoie,Italian Restaurant,2
+698,Sainte-Avoie,Vegetarian / Vegan Restaurant,2
+699,Sainte-Avoie,Vietnamese Restaurant,2
+700,Sainte-Avoie,Japanese Restaurant,1
+701,Sainte-Avoie,Modern European Restaurant,1
+702,Sainte-Avoie,Moroccan Restaurant,1
+703,Sainte-Avoie,Okonomiyaki Restaurant,1
+704,Sainte-Avoie,Sushi Restaurant,1
+705,Sainte-Avoie,Szechuan Restaurant,1
+706,Sainte-Marguerite,French Restaurant,9
+707,Sainte-Marguerite,Italian Restaurant,2
+708,Sainte-Marguerite,Ethiopian Restaurant,1
+709,Sainte-Marguerite,Jiangxi Restaurant,1
+710,Sainte-Marguerite,Korean Restaurant,1
+711,Sainte-Marguerite,Restaurant,1
+712,Sainte-Marguerite,Thai Restaurant,1
+713,Sainte-Marguerite,Vietnamese Restaurant,1
+714,Salpêtrière,French Restaurant,3
+715,Salpêtrière,Indian Restaurant,2
+716,Salpêtrière,Cajun / Creole Restaurant,1
+717,Salpêtrière,Cambodian Restaurant,1
+718,Salpêtrière,Chinese Restaurant,1
+719,Salpêtrière,Corsican Restaurant,1
+720,Salpêtrière,Italian Restaurant,1
+721,Salpêtrière,Mediterranean Restaurant,1
+722,Salpêtrière,Sushi Restaurant,1
+723,Sorbonne,French Restaurant,10
+724,Sorbonne,Italian Restaurant,3
+725,Sorbonne,Japanese Restaurant,2
+726,Sorbonne,Asian Restaurant,1
+727,Sorbonne,Ethiopian Restaurant,1
+728,Sorbonne,Lebanese Restaurant,1
+729,Sorbonne,Mediterranean Restaurant,1
+730,Sorbonne,Mexican Restaurant,1
+731,Sorbonne,New American Restaurant,1
+732,Sorbonne,Portuguese Restaurant,1
+733,Sorbonne,Seafood Restaurant,1
+734,Sorbonne,Tapas Restaurant,1
+735,Sorbonne,Vietnamese Restaurant,1
+736,Ternes,French Restaurant,16
+737,Ternes,Italian Restaurant,8
+738,Ternes,Seafood Restaurant,3
+739,Ternes,Japanese Restaurant,2
+740,Ternes,Moroccan Restaurant,2
+741,Ternes,American Restaurant,1
+742,Ternes,Asian Restaurant,1
+743,Ternes,Breton Restaurant,1
+744,Ternes,Lebanese Restaurant,1
+745,Ternes,Restaurant,1
+746,Ternes,Sushi Restaurant,1
+747,Ternes,Vietnamese Restaurant,1
+748,Val-de-Grâce,French Restaurant,6
+749,Val-de-Grâce,Asian Restaurant,2
+750,Val-de-Grâce,Chinese Restaurant,1
+751,Val-de-Grâce,Falafel Restaurant,1
+752,Val-de-Grâce,Greek Restaurant,1
+753,Val-de-Grâce,Italian Restaurant,1
+754,Val-de-Grâce,Japanese Restaurant,1
+755,Val-de-Grâce,Korean Restaurant,1
+756,Val-de-Grâce,Mexican Restaurant,1
+757,Val-de-Grâce,Turkish Restaurant,1
+758,Villette,French Restaurant,3
+759,Villette,Asian Restaurant,2
+760,Villette,Fast Food Restaurant,2
+761,Villette,Italian Restaurant,2
+762,Villette,African Restaurant,1
+763,Villette,American Restaurant,1
+764,Villette,Japanese Restaurant,1
+765,Villette,Middle Eastern Restaurant,1
+766,Villette,Seafood Restaurant,1
+767,Vivienne,French Restaurant,9
+768,Vivienne,Japanese Restaurant,3
+769,Vivienne,Korean Restaurant,2
+770,Vivienne,Udon Restaurant,2
+771,Vivienne,Corsican Restaurant,1
+772,Vivienne,English Restaurant,1
+773,Vivienne,Israeli Restaurant,1
+774,Vivienne,Ramen Restaurant,1
+775,Vivienne,South American Restaurant,1
+776,Vivienne,Sushi Restaurant,1
+777,Vivienne,Taiwanese Restaurant,1
+778,Vivienne,Tapas Restaurant,1
